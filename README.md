@@ -1,7 +1,6 @@
 this is first line of code
 
-
-second line of code
+seond &third line of code
 
 
 
